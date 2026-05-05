@@ -91,7 +91,7 @@ bookflow/
 ### 1. Clone the repo
 
 ```
-git clone <your-repo-url>
+git clone git@github.com:saisravyathumati/bookflow.git
 cd bookflow
 ```
 
@@ -156,5 +156,10 @@ Built as part of a full-stack system design project focusing on backend architec
 * Advanced analytics dashboard
 * Payment integration
 * Multi-channel notifications
+
+## 👨‍💻 Developers
+
+* Sai Sravya T
+* Narsimha S
 
 ---
